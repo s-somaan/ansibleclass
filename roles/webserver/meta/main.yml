@@ -38,10 +38,10 @@ galaxy_info:
   #   - 1.0
   #   - 7
   #   - 99.99
-platforms:
-   - name: EL
-     versions:
-     - 8
+  platforms:
+    - name: EL
+      versions:
+      - 8
 
 
 galaxy_tags: []
