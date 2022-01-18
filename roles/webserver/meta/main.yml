@@ -40,8 +40,8 @@ galaxy_info:
   #   - 99.99
   platforms:
     - name: EL
-      versions:
-      - 8
+    versions:
+    - 8
 
 
 galaxy_tags: []
