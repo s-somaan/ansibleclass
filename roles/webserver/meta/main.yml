@@ -1,6 +1,6 @@
 galaxy_info:
   author: Soren Maagaard
-  description:  Install and configure httpd and php on Enterprise Linux
+  description: Install and configure httpd and php on Enterprise Linux
   company: RM
 
   # If the issue tracker for your role is not on github, uncomment the
