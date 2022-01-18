@@ -80,7 +80,7 @@
       resource_group: "{{ resource_group }}"
       name: "webserver"
       os_type: Linux
-      admin_username: "{{ user }}"
+      admin_username: "{{ user2 }}"
       ssh_password_enabled: false
       ssh_public_keys:
         - path: "/home/{{ user }}/.ssh/authorized_keys"
